@@ -1,0 +1,3 @@
+Nhap mot so :5 Gia tri cua giai thua la 120Nhap mot so :8 Gia tri cua giai thua la 40320
+Nhap mot so :5 Gia tri cua giai thua la 120
+nhap n:120
